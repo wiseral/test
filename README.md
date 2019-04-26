@@ -1,2 +1,2 @@
 # test
-why you chaned this code. you can write distributions on this sheet.
+why you chaned this code. you can write discriptions on this sheet.
